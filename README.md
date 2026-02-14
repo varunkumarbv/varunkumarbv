@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Varun Kumar BV  
 
-<!--
-**varunkumarbv/varunkumarbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student  
+💻 Java Full Stack Developer  
+🚀 Passionate about Backend Development & Secure Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I completed working on **Forensic Face Detection System**
+- 🌱 Learning **Full Stack Java Development**
+- 💡 Interested in Backend Development & Backend Architecture
+- 🎯 Goal: Become a Professional Java Backend Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Java  
+- Python  
+- SQL  
+- JavaScript  
+
+### 🚀 Backend
+- Spring Boot  
+- Spring Security  
+- Hibernate / JPA  
+- REST APIs  
+
+### 🌐 Frontend
+- HTML  
+- CSS  
+- React.js  
+- Redux  
+
+### 🛢️ Database
+- MySQL  
+
+### 🔧 Tools & Technologies
+- Git & GitHub  
+- Maven  
+- Postman  
+- Docker (Learning)  
+- Kubernetes (Learning
